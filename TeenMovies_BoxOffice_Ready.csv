@@ -1,0 +1,341 @@
+RecordID,WeekStart,Movie,Franchise,Genre,Language,CountryOfOrigin,ReleaseDate,AgeRating,MarketCountry,MarketCity,Screens,TicketsSold,AvgTicketPriceINR,WeeklyGrossINR,Format,Distribution,LeadStarPower,StreamingRelease,Platform,SocialBuzz,AudienceRating,CriticScore,HasPostCreditScene,Notes,CumulativeGrossINR
+1,2025-08-04,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Mumbai,105,48875,181.06,8849307.5,2D,Single Screen,Medium,Yes,JioCinema,733,7.1,79,Yes,,83227024.82000001
+2,2025-08-04,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Mumbai,178,96207,239.53,23044462.71,3D,Multiplex,High,Yes,Crunchyroll,781,9.2,82,Yes,,160534806.43
+3,2025-08-04,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Mumbai,98,29841,237.19,7077986.79,2D,Mixed,Medium,Yes,Netflix,632,7.0,59,No,,69232011.04
+4,2025-08-04,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Delhi,78,30384,217.48,6607912.32,2D,Single Screen,Medium,No,JioCinema,702,7.7,73,No,,83227024.82000001
+5,2025-08-04,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Delhi,125,56553,237.85,13451131.05,2D,Mixed,High,Yes,Crunchyroll,897,8.6,86,No,,160534806.43
+6,2025-08-04,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Delhi,79,30057,185.71,5581885.47,2D,Multiplex,Medium,Yes,Netflix,599,6.9,57,No,,69232011.04
+7,2025-08-04,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Ahmedabad,74,29935,183.89,5504747.15,2D,Single Screen,Medium,No,JioCinema,966,8.3,75,Yes,,83227024.82000001
+8,2025-08-04,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Ahmedabad,117,44531,151.42,6742884.02,3D,Multiplex,High,Yes,Crunchyroll,939,8.2,90,No,,160534806.43
+9,2025-08-04,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Ahmedabad,59,14950,193.61,2894469.5,2D,Single Screen,Medium,Yes,Netflix,806,7.0,65,Yes,,69232011.04
+10,2025-08-04,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Bengaluru,91,34728,216.56,7520695.68,2D,Mixed,Medium,Yes,JioCinema,872,7.2,79,No,,83227024.82000001
+11,2025-08-04,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Bengaluru,113,64706,211.19,13665260.14,IMAX,Mixed,High,Yes,Crunchyroll,949,8.7,82,Yes,,160534806.43
+12,2025-08-04,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Bengaluru,85,26804,227.6,6100590.4,2D,Mixed,Medium,Yes,Netflix,702,6.7,60,No,,69232011.04
+13,2025-08-04,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Japan,Tokyo,81,34221,322.28,11028743.88,2D,Multiplex,Medium,No,JioCinema,755,7.8,69,No,,83227024.82000001
+14,2025-08-04,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Japan,Tokyo,86,35739,299.28,10695967.92,2D,Single Screen,High,No,Crunchyroll,1229,8.9,86,Yes,,160534806.43
+15,2025-08-04,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Japan,Tokyo,73,24880,325.08,8087990.4,2D,Mixed,Medium,Yes,Netflix,696,7.0,58,No,,69232011.04
+16,2025-08-04,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Japan,Osaka,75,24106,283.63,6837184.78,2D,Mixed,Medium,No,JioCinema,1060,8.6,66,Yes,,83227024.82000001
+17,2025-08-04,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Japan,Osaka,108,59545,285.44,16996524.8,2D,Single Screen,High,No,Crunchyroll,1073,8.4,83,Yes,,160534806.43
+18,2025-08-04,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Japan,Osaka,39,8123,320.08,2600009.84,2D,Mixed,Medium,Yes,Netflix,862,7.1,59,No,,69232011.04
+19,2025-08-04,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,USA,Los Angeles,61,17995,415.79,7482141.05,2D,Multiplex,Medium,No,JioCinema,950,7.7,67,No,,83227024.82000001
+20,2025-08-04,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,USA,Los Angeles,103,47523,462.74,21990793.02,2D,Multiplex,High,No,Crunchyroll,982,8.3,85,No,,160534806.43
+21,2025-08-04,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,USA,Los Angeles,69,25345,468.52,11874639.4,2D,Mixed,Medium,No,Netflix,771,6.8,59,Yes,,69232011.04
+22,2025-08-04,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,USA,New York,60,24266,415.06,10071845.96,2D,Multiplex,Medium,Yes,JioCinema,911,7.8,71,Yes,,83227024.82000001
+23,2025-08-04,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,USA,New York,86,44201,460.79,20367378.79,2D,Multiplex,High,No,Crunchyroll,631,8.5,87,Yes,,160534806.43
+24,2025-08-04,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,USA,New York,53,20991,514.86,10807426.26,2D,Single Screen,Medium,No,Netflix,733,7.2,60,Yes,,69232011.04
+25,2025-08-04,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Canada,Toronto,64,22015,381.51,8398942.65,2D,Multiplex,Medium,Yes,JioCinema,1010,7.6,73,No,,83227024.82000001
+26,2025-08-04,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Canada,Toronto,93,52562,415.32,21830049.84,3D,Single Screen,High,No,Crunchyroll,1047,8.5,80,Yes,,160534806.43
+27,2025-08-04,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Canada,Toronto,58,19089,374.5,7148830.5,2D,Single Screen,Medium,Yes,Netflix,856,7.2,64,Yes,,69232011.04
+28,2025-08-04,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,UK,London,60,28793,379.45,10925503.85,2D,Multiplex,Medium,No,JioCinema,1132,7.4,70,Yes,,83227024.82000001
+29,2025-08-04,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,UK,London,51,31714,370.51,11750354.14,IMAX,Mixed,High,No,Crunchyroll,783,8.6,85,Yes,,160534806.43
+30,2025-08-04,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,UK,London,57,18968,372.11,7058182.48,3D,Multiplex,Medium,Yes,Netflix,691,6.2,61,Yes,,69232011.04
+31,2025-08-11,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Mumbai,124,54000,191.1,10319400.0,3D,Single Screen,Medium,No,JioCinema,729,7.6,70,Yes,,165393730.06
+32,2025-08-11,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Mumbai,152,68685,218.18,14985693.3,3D,Single Screen,High,No,Crunchyroll,819,8.3,84,No,,314578261.38
+33,2025-08-11,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Mumbai,127,82718,234.71,19414741.78,2D,Single Screen,High,Yes,Prime Video,1253,7.2,68,Yes,,166866277.81
+34,2025-08-11,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Mumbai,89,18863,222.11,4189660.93,2D,Multiplex,Medium,Yes,Netflix,463,6.9,58,Yes,,157027124.8
+35,2025-08-11,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Mumbai,103,42238,197.56,8344539.28,2D,Single Screen,Medium,No,Disney+,1015,8.0,73,Yes,,81757931.48
+36,2025-08-11,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Delhi,109,29472,186.25,5489160.0,2D,Mixed,Medium,Yes,JioCinema,606,7.8,73,No,,165393730.06
+37,2025-08-11,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Delhi,94,45526,231.67,10547008.42,IMAX,Multiplex,High,No,Crunchyroll,672,8.7,83,Yes,,314578261.38
+38,2025-08-11,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Delhi,111,66600,189.73,12636018.0,2D,Mixed,High,No,Prime Video,1242,7.6,65,Yes,,166866277.81
+39,2025-08-11,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Delhi,85,34063,181.64,6187203.32,2D,Mixed,Medium,Yes,Netflix,560,7.0,58,No,,157027124.8
+40,2025-08-11,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Delhi,86,31815,224.27,7135150.05,2D,Single Screen,Medium,No,Disney+,1045,7.3,76,Yes,,81757931.48
+41,2025-08-11,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Ahmedabad,70,21111,203.9,4304532.9,2D,Multiplex,Medium,No,JioCinema,733,7.5,70,Yes,,165393730.06
+42,2025-08-11,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Ahmedabad,90,27079,180.55,4889113.45,2D,Mixed,High,Yes,Crunchyroll,813,8.8,84,Yes,,314578261.38
+43,2025-08-11,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Ahmedabad,93,66412,208.92,13874795.04,2D,Single Screen,High,Yes,Prime Video,1268,6.8,70,Yes,,166866277.81
+44,2025-08-11,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Ahmedabad,61,22745,208.32,4738238.4,2D,Single Screen,Medium,No,Netflix,505,6.6,54,Yes,,157027124.8
+45,2025-08-11,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Ahmedabad,63,24652,133.28,3285618.56,2D,Mixed,Medium,No,Disney+,897,7.2,72,Yes,,81757931.48
+46,2025-08-11,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Bengaluru,79,32489,216.42,7031269.38,2D,Single Screen,Medium,Yes,JioCinema,745,7.8,71,No,,165393730.06
+47,2025-08-11,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Bengaluru,92,35659,219.04,7810747.36,2D,Single Screen,High,No,Crunchyroll,818,9.2,86,No,,314578261.38
+48,2025-08-11,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Bengaluru,117,55032,239.05,13155399.6,2D,Mixed,High,No,Prime Video,1222,7.7,65,No,,166866277.81
+49,2025-08-11,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Bengaluru,78,22653,219.81,4979355.93,2D,Multiplex,Medium,Yes,Netflix,508,7.7,60,No,,157027124.8
+50,2025-08-11,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Bengaluru,79,38179,212.02,8094711.58,2D,Mixed,Medium,No,Disney+,782,7.4,76,Yes,,81757931.48
+51,2025-08-11,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Japan,Tokyo,64,28008,292.94,8204663.52,2D,Mixed,Medium,No,JioCinema,904,7.7,68,No,,165393730.06
+52,2025-08-11,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Japan,Tokyo,105,56761,329.09,18679477.49,IMAX,Mixed,High,No,Crunchyroll,865,8.3,86,No,,314578261.38
+53,2025-08-11,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Japan,Tokyo,107,57328,292.44,16765000.32,2D,Mixed,High,Yes,Prime Video,1569,7.4,62,No,,166866277.81
+54,2025-08-11,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Japan,Tokyo,92,30525,290.5,8867512.5,2D,Single Screen,Medium,No,Netflix,691,7.7,55,No,,157027124.8
+55,2025-08-11,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Japan,Tokyo,86,40692,314.0,12777288.0,2D,Mixed,Medium,No,Disney+,1013,7.3,78,No,,81757931.48
+56,2025-08-11,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Japan,Osaka,30,10771,297.16,3200710.36,2D,Mixed,Medium,No,JioCinema,541,7.6,73,No,,165393730.06
+57,2025-08-11,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Japan,Osaka,73,39609,308.25,12209474.25,IMAX,Mixed,High,No,Crunchyroll,678,8.6,83,Yes,,314578261.38
+58,2025-08-11,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Japan,Osaka,94,56400,288.72,16283808.0,2D,Multiplex,High,No,Prime Video,1292,7.3,70,Yes,,166866277.81
+59,2025-08-11,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Japan,Osaka,55,17998,261.12,4699637.76,2D,Mixed,Medium,Yes,Netflix,449,7.0,63,No,,157027124.8
+60,2025-08-11,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Japan,Osaka,64,30081,283.07,8515028.67,2D,Multiplex,Medium,Yes,Disney+,947,7.4,80,No,,81757931.48
+61,2025-08-11,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,USA,Los Angeles,76,23642,445.28,10527309.76,2D,Multiplex,Medium,No,JioCinema,599,8.2,68,Yes,,165393730.06
+62,2025-08-11,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,USA,Los Angeles,92,48796,426.86,20829060.56,3D,Multiplex,High,Yes,Crunchyroll,830,8.7,85,Yes,,314578261.38
+63,2025-08-11,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,USA,Los Angeles,69,26834,454.84,12205176.56,2D,Multiplex,High,Yes,Prime Video,1077,7.7,63,No,,166866277.81
+64,2025-08-11,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,USA,Los Angeles,98,39531,440.38,17408661.78,2D,Mixed,Medium,No,Netflix,506,7.3,53,Yes,,157027124.8
+65,2025-08-11,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,USA,Los Angeles,55,19144,441.71,8456096.24,2D,Single Screen,Medium,Yes,Disney+,824,7.4,76,No,,81757931.48
+66,2025-08-11,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,USA,New York,56,20993,473.79,9946273.47,2D,Multiplex,Medium,Yes,JioCinema,754,7.7,69,No,,165393730.06
+67,2025-08-11,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,USA,New York,93,51117,433.14,22140817.38,IMAX,Multiplex,High,Yes,Crunchyroll,670,8.7,86,Yes,,314578261.38
+68,2025-08-11,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,USA,New York,113,67800,454.9,30842220.0,2D,Single Screen,High,Yes,Prime Video,1265,7.8,68,No,,166866277.81
+69,2025-08-11,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,USA,New York,99,37771,426.97,16127083.87,2D,Single Screen,Medium,Yes,Netflix,502,6.9,65,Yes,,157027124.8
+70,2025-08-11,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,USA,New York,76,31476,449.73,14155701.48,3D,Mixed,Medium,No,Disney+,997,7.5,69,No,,81757931.48
+71,2025-08-11,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Canada,Toronto,76,23946,400.88,9599472.48,2D,Single Screen,Medium,No,JioCinema,676,7.3,67,Yes,,165393730.06
+72,2025-08-11,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Canada,Toronto,101,48710,366.56,17855137.6,2D,Multiplex,High,Yes,Crunchyroll,765,8.6,85,Yes,,314578261.38
+73,2025-08-11,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Canada,Toronto,72,37589,369.59,13892518.51,2D,Multiplex,High,No,Prime Video,1097,7.4,69,Yes,,166866277.81
+74,2025-08-11,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Canada,Toronto,39,14339,406.93,5834969.27,2D,Multiplex,Medium,Yes,Netflix,371,7.4,62,Yes,,157027124.8
+75,2025-08-11,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Canada,Toronto,26,11614,398.06,4623068.84,2D,Mixed,Medium,No,Disney+,1025,8.0,77,No,,81757931.48
+76,2025-08-11,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,UK,London,77,33657,402.41,13543913.37,3D,Mixed,Medium,No,JioCinema,534,8.4,72,Yes,,165393730.06
+77,2025-08-11,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,UK,London,100,59106,407.69,24096925.14,3D,Multiplex,High,Yes,Crunchyroll,863,9.0,83,Yes,,314578261.38
+78,2025-08-11,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,UK,London,75,45000,395.48,17796600.0,2D,Multiplex,High,No,Prime Video,1566,7.7,65,Yes,,166866277.81
+79,2025-08-11,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,UK,London,88,36500,404.46,14762790.0,2D,Single Screen,Medium,Yes,Netflix,568,7.3,59,No,,157027124.8
+80,2025-08-11,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,UK,London,40,15717,405.34,6370728.78,2D,Mixed,Medium,No,Disney+,958,7.9,70,No,,81757931.48
+81,2025-08-18,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Mumbai,98,34343,187.54,6440686.22,3D,Single Screen,Medium,No,JioCinema,454,8.1,71,No,,228370180.56
+82,2025-08-18,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Mumbai,121,50322,249.67,12563893.74,IMAX,Mixed,High,Yes,Crunchyroll,823,8.8,87,No,,438781926.21999997
+83,2025-08-18,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Mumbai,154,115500,253.67,29298885.0,2D,Single Screen,High,Yes,Prime Video,932,7.6,68,No,,325402311.24
+84,2025-08-18,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Mumbai,110,42392,241.56,10240211.52,2D,Mixed,Medium,No,Netflix,883,7.3,67,Yes,,86465685.63
+85,2025-08-18,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Mumbai,115,23773,226.31,5380067.63,2D,Single Screen,Medium,Yes,Netflix,397,6.6,60,No,,218052932.78
+86,2025-08-18,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Mumbai,79,21497,198.34,4263714.98,2D,Multiplex,Medium,No,Disney+,666,7.1,70,No,,159640307.35000002
+87,2025-08-18,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Delhi,108,26917,212.78,5727399.26,2D,Single Screen,Medium,No,JioCinema,710,7.9,76,No,,228370180.56
+88,2025-08-18,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Delhi,108,51284,219.68,11266069.12,2D,Multiplex,High,Yes,Crunchyroll,1051,8.7,91,Yes,,438781926.21999997
+89,2025-08-18,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Delhi,124,59601,218.46,13020434.46,2D,Multiplex,High,No,Prime Video,1019,7.4,68,Yes,,325402311.24
+90,2025-08-18,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Delhi,84,42828,233.08,9982350.24,2D,Single Screen,Medium,Yes,Netflix,690,7.4,65,No,,86465685.63
+91,2025-08-18,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Delhi,82,20116,204.59,4115532.44,3D,Multiplex,Medium,No,Netflix,356,6.9,64,No,,218052932.78
+92,2025-08-18,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Delhi,107,36392,194.25,7069146.0,2D,Single Screen,Medium,Yes,Disney+,454,7.7,80,No,,159640307.35000002
+93,2025-08-18,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Ahmedabad,86,33617,201.84,6785255.28,3D,Mixed,Medium,Yes,JioCinema,600,8.1,68,No,,228370180.56
+94,2025-08-18,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Ahmedabad,85,23427,194.59,4558659.93,2D,Single Screen,High,No,Crunchyroll,738,8.7,84,No,,438781926.21999997
+95,2025-08-18,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Ahmedabad,85,63750,210.9,13444875.0,2D,Mixed,High,Yes,Prime Video,1004,8.0,67,Yes,,325402311.24
+96,2025-08-18,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Ahmedabad,76,30810,194.55,5994085.5,3D,Mixed,Medium,No,Netflix,957,6.8,69,Yes,,86465685.63
+97,2025-08-18,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Ahmedabad,76,18974,175.99,3339234.26,2D,Multiplex,Medium,No,Netflix,430,6.8,59,No,,218052932.78
+98,2025-08-18,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Ahmedabad,85,28003,245.02,6861295.06,2D,Mixed,Medium,Yes,Disney+,643,7.7,74,No,,159640307.35000002
+99,2025-08-18,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Bengaluru,63,17566,183.57,3224590.62,2D,Single Screen,Medium,Yes,JioCinema,577,7.8,74,No,,228370180.56
+100,2025-08-18,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Bengaluru,126,47613,255.52,12166073.76,3D,Mixed,High,No,Crunchyroll,697,8.8,82,No,,438781926.21999997
+101,2025-08-18,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Bengaluru,147,54088,232.37,12568428.56,2D,Single Screen,High,No,Prime Video,962,7.4,71,No,,325402311.24
+102,2025-08-18,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Bengaluru,69,26913,233.5,6284185.5,2D,Mixed,Medium,Yes,Netflix,780,7.3,64,No,,86465685.63
+103,2025-08-18,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Bengaluru,96,19064,199.13,3796214.32,2D,Single Screen,Medium,No,Netflix,434,7.3,65,Yes,,218052932.78
+104,2025-08-18,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Bengaluru,89,33419,205.93,6881974.67,2D,Mixed,Medium,Yes,Disney+,615,7.3,80,No,,159640307.35000002
+105,2025-08-18,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Japan,Tokyo,75,24046,301.51,7250109.46,2D,Mixed,Medium,No,JioCinema,512,7.8,73,No,,228370180.56
+106,2025-08-18,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Japan,Tokyo,125,41031,315.46,12943639.26,2D,Single Screen,High,Yes,Crunchyroll,856,8.7,82,Yes,,438781926.21999997
+107,2025-08-18,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Japan,Tokyo,94,49317,334.92,16517249.64,2D,Mixed,High,Yes,Prime Video,1136,7.3,66,Yes,,325402311.24
+108,2025-08-18,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Japan,Tokyo,83,38378,276.58,10614587.24,2D,Mixed,Medium,No,Netflix,1039,7.8,59,Yes,,86465685.63
+109,2025-08-18,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Japan,Tokyo,67,17367,294.8,5119791.6,2D,Single Screen,Medium,No,Netflix,624,7.2,60,Yes,,218052932.78
+110,2025-08-18,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Japan,Tokyo,107,32464,297.85,9669402.4,IMAX,Multiplex,Medium,Yes,Disney+,400,7.4,73,No,,159640307.35000002
+111,2025-08-18,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Japan,Osaka,73,21692,288.09,6249248.28,2D,Multiplex,Medium,No,JioCinema,431,7.9,70,No,,228370180.56
+112,2025-08-18,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Japan,Osaka,66,29406,284.93,8378651.58,2D,Multiplex,High,Yes,Crunchyroll,818,8.5,88,Yes,,438781926.21999997
+113,2025-08-18,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Japan,Osaka,74,38165,306.94,11714365.1,2D,Mixed,High,No,Prime Video,955,7.6,71,Yes,,325402311.24
+114,2025-08-18,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Japan,Osaka,33,13005,312.13,4059250.65,2D,Multiplex,Medium,No,Netflix,744,7.2,67,No,,86465685.63
+115,2025-08-18,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Japan,Osaka,58,13693,300.71,4117622.03,2D,Single Screen,Medium,Yes,Netflix,538,6.5,56,Yes,,218052932.78
+116,2025-08-18,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Japan,Osaka,84,29979,314.54,9429594.66,3D,Mixed,Medium,Yes,Disney+,595,7.2,73,Yes,,159640307.35000002
+117,2025-08-18,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,USA,Los Angeles,75,19789,466.9,9239484.1,2D,Mixed,Medium,No,JioCinema,691,7.9,69,Yes,,228370180.56
+118,2025-08-18,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,USA,Los Angeles,94,34460,452.07,15578332.2,2D,Multiplex,High,Yes,Crunchyroll,558,8.3,91,Yes,,438781926.21999997
+119,2025-08-18,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,USA,Los Angeles,73,35205,453.23,15955962.15,2D,Mixed,High,No,Prime Video,986,7.4,69,No,,325402311.24
+120,2025-08-18,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,USA,Los Angeles,55,16499,428.36,7067511.64,2D,Single Screen,Medium,No,Netflix,781,7.1,67,Yes,,86465685.63
+121,2025-08-18,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,USA,Los Angeles,72,27239,479.75,13067910.25,3D,Single Screen,Medium,Yes,Netflix,608,6.6,60,No,,218052932.78
+122,2025-08-18,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,USA,Los Angeles,54,12921,450.82,5825045.22,2D,Multiplex,Medium,Yes,Disney+,763,7.4,83,Yes,,159640307.35000002
+123,2025-08-18,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,USA,New York,82,19054,454.01,8650706.54,2D,Mixed,Medium,No,JioCinema,588,7.3,72,No,,228370180.56
+124,2025-08-18,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,USA,New York,102,47110,486.19,22904410.9,2D,Single Screen,High,Yes,Crunchyroll,661,8.7,82,No,,438781926.21999997
+125,2025-08-18,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,USA,New York,91,43841,453.04,19861726.64,2D,Mixed,High,Yes,Prime Video,752,7.6,67,Yes,,325402311.24
+126,2025-08-18,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,USA,New York,72,34869,450.2,15698023.8,2D,Mixed,Medium,No,Netflix,746,7.4,64,Yes,,86465685.63
+127,2025-08-18,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,USA,New York,65,23129,488.27,11293196.83,2D,Single Screen,Medium,Yes,Netflix,309,6.7,59,Yes,,218052932.78
+128,2025-08-18,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,USA,New York,69,30055,472.36,14196779.8,2D,Mixed,Medium,No,Disney+,713,7.1,74,No,,159640307.35000002
+129,2025-08-18,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Canada,Toronto,48,12375,348.3,4310212.5,3D,Single Screen,Medium,Yes,JioCinema,560,8.2,71,Yes,,228370180.56
+130,2025-08-18,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Canada,Toronto,73,26833,366.41,9831879.53,2D,Multiplex,High,No,Crunchyroll,776,8.7,87,Yes,,438781926.21999997
+131,2025-08-18,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Canada,Toronto,81,34912,404.3,14114921.6,2D,Multiplex,High,No,Prime Video,804,7.5,69,Yes,,325402311.24
+132,2025-08-18,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Canada,Toronto,72,27694,358.93,9940207.42,2D,Multiplex,Medium,No,Netflix,921,7.3,65,Yes,,86465685.63
+133,2025-08-18,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Canada,Toronto,51,12590,336.9,4241571.0,2D,Mixed,Medium,Yes,Netflix,577,7.4,62,Yes,,218052932.78
+134,2025-08-18,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Canada,Toronto,42,11837,394.69,4671945.53,2D,Single Screen,Medium,Yes,Disney+,832,7.5,72,No,,159640307.35000002
+135,2025-08-18,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,UK,London,39,12968,393.18,5098758.24,2D,Single Screen,Medium,Yes,JioCinema,806,7.7,72,Yes,,228370180.56
+136,2025-08-18,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,UK,London,87,33282,421.01,14012054.82,2D,Mixed,High,No,Crunchyroll,835,8.7,83,No,,438781926.21999997
+137,2025-08-18,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,UK,London,68,29632,406.29,12039185.28,2D,Single Screen,High,No,Prime Video,982,7.9,71,Yes,,325402311.24
+138,2025-08-18,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,UK,London,35,16084,409.43,6585272.12,2D,Multiplex,Medium,No,Netflix,853,7.3,67,No,,86465685.63
+139,2025-08-18,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,UK,London,57,18559,353.18,6554667.62,2D,Mixed,Medium,Yes,Netflix,366,7.2,59,Yes,,218052932.78
+140,2025-08-18,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,UK,London,64,22505,400.51,9013477.55,2D,Single Screen,Medium,No,Disney+,572,7.8,77,Yes,,159640307.35000002
+141,2025-08-25,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Mumbai,120,23647,230.87,5459382.89,2D,Multiplex,Medium,Yes,JioCinema,544,8.3,69,Yes,,286170641.05
+142,2025-08-25,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Mumbai,141,51643,218.65,11291741.95,2D,Single Screen,High,No,Crunchyroll,610,8.5,85,No,,562253815.59
+143,2025-08-25,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Mumbai,126,60925,195.23,11894387.75,3D,Mixed,High,Yes,Prime Video,850,7.5,68,No,,461044543.26
+144,2025-08-25,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Mumbai,100,37085,223.65,8294060.25,2D,Single Screen,Medium,Yes,Netflix,765,7.6,66,No,,167716468.06
+145,2025-08-25,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Mumbai,144,86400,177.93,15373152.0,3D,Mixed,High,Yes,Disney+,1108,8.0,76,Yes,,154264273.46
+146,2025-08-25,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Mumbai,99,16209,244.59,3964559.31,2D,Mixed,Medium,No,Netflix,437,7.0,57,No,,264775611.95000002
+147,2025-08-25,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Mumbai,107,28270,199.78,5647780.6,2D,Mixed,Medium,Yes,Disney+,577,7.3,71,Yes,,229929149.87
+148,2025-08-25,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Delhi,90,28904,217.24,6279104.96,2D,Mixed,Medium,Yes,JioCinema,727,7.6,68,No,,286170641.05
+149,2025-08-25,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Delhi,100,30895,194.81,6018654.95,3D,Mixed,High,No,Crunchyroll,463,8.8,87,Yes,,562253815.59
+150,2025-08-25,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Delhi,100,48245,190.1,9171374.5,2D,Multiplex,High,No,Prime Video,746,7.1,68,Yes,,461044543.26
+151,2025-08-25,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Delhi,96,39537,178.56,7059726.72,2D,Single Screen,Medium,No,Netflix,778,7.3,65,Yes,,167716468.06
+152,2025-08-25,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Delhi,116,56167,216.04,12134318.68,2D,Mixed,High,No,Disney+,1141,8.0,78,Yes,,154264273.46
+153,2025-08-25,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Delhi,98,23517,192.39,4524435.63,2D,Mixed,Medium,No,Netflix,509,6.7,62,No,,264775611.95000002
+154,2025-08-25,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Delhi,86,28982,248.83,7211591.06,2D,Multiplex,Medium,No,Disney+,425,8.1,75,Yes,,229929149.87
+155,2025-08-25,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Ahmedabad,75,20914,184.95,3868044.3,2D,Mixed,Medium,No,JioCinema,454,8.1,67,Yes,,286170641.05
+156,2025-08-25,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Ahmedabad,105,36945,190.89,7052431.05,2D,Multiplex,High,Yes,Crunchyroll,770,8.5,90,Yes,,562253815.59
+157,2025-08-25,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Ahmedabad,100,51580,222.8,11492024.0,2D,Single Screen,High,No,Prime Video,597,7.2,67,Yes,,461044543.26
+158,2025-08-25,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Ahmedabad,81,26749,181.76,4861898.24,2D,Single Screen,Medium,Yes,Netflix,622,6.8,63,No,,167716468.06
+159,2025-08-25,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Ahmedabad,120,72000,209.11,15055920.0,2D,Single Screen,High,No,Disney+,1134,7.8,72,Yes,,154264273.46
+160,2025-08-25,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Ahmedabad,64,10104,185.26,1871867.04,2D,Single Screen,Medium,Yes,Netflix,515,7.0,57,Yes,,264775611.95000002
+161,2025-08-25,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Ahmedabad,77,22610,172.31,3895929.1,2D,Single Screen,Medium,No,Disney+,421,7.7,76,No,,229929149.87
+162,2025-08-25,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Bengaluru,75,19310,198.72,3837283.2,3D,Multiplex,Medium,Yes,JioCinema,533,7.9,65,No,,286170641.05
+163,2025-08-25,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,India,Bengaluru,123,40893,205.81,8416188.33,2D,Single Screen,High,Yes,Crunchyroll,578,8.8,85,Yes,,562253815.59
+164,2025-08-25,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Bengaluru,117,40833,231.26,9443039.58,2D,Multiplex,High,No,Prime Video,760,7.6,63,No,,461044543.26
+165,2025-08-25,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Bengaluru,104,40887,208.38,8520033.06,2D,Mixed,Medium,No,Netflix,853,7.0,67,Yes,,167716468.06
+166,2025-08-25,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Bengaluru,100,51737,220.34,11399730.58,3D,Single Screen,High,No,Disney+,1150,8.2,76,Yes,,154264273.46
+167,2025-08-25,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,India,Bengaluru,64,15694,208.79,3276750.26,2D,Mixed,Medium,Yes,Netflix,347,7.3,63,Yes,,264775611.95000002
+168,2025-08-25,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Bengaluru,83,22531,232.05,5228318.55,2D,Single Screen,Medium,Yes,Disney+,478,7.8,69,Yes,,229929149.87
+169,2025-08-25,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Japan,Tokyo,80,17654,320.06,5650339.24,3D,Multiplex,Medium,No,JioCinema,568,7.6,74,No,,286170641.05
+170,2025-08-25,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Japan,Tokyo,115,40992,312.17,12796472.64,2D,Multiplex,High,No,Crunchyroll,627,9.4,87,No,,562253815.59
+171,2025-08-25,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Japan,Tokyo,109,55006,329.84,18143179.04,3D,Single Screen,High,Yes,Prime Video,686,7.4,64,Yes,,461044543.26
+172,2025-08-25,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Japan,Tokyo,81,29129,322.5,9394102.5,2D,Multiplex,Medium,Yes,Netflix,901,7.1,71,Yes,,167716468.06
+173,2025-08-25,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,Japan,Tokyo,86,51600,312.31,16115196.0,2D,Multiplex,High,Yes,Disney+,1217,8.1,79,No,,154264273.46
+174,2025-08-25,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Japan,Tokyo,43,12387,323.36,4005460.32,2D,Mixed,Medium,No,Netflix,371,6.8,59,Yes,,264775611.95000002
+175,2025-08-25,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Japan,Tokyo,75,21113,313.32,6615125.16,2D,Single Screen,Medium,Yes,Disney+,541,7.2,79,No,,229929149.87
+176,2025-08-25,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Japan,Osaka,56,16015,289.69,4639385.35,2D,Single Screen,Medium,No,JioCinema,271,8.2,73,No,,286170641.05
+177,2025-08-25,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Japan,Osaka,84,36832,310.62,11440755.84,2D,Multiplex,High,No,Crunchyroll,692,8.5,85,Yes,,562253815.59
+178,2025-08-25,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Japan,Osaka,76,31944,315.79,10087595.76,3D,Mixed,High,Yes,Prime Video,1116,7.3,66,Yes,,461044543.26
+179,2025-08-25,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Japan,Osaka,57,17519,300.24,5259904.56,2D,Mixed,Medium,No,Netflix,534,7.0,70,No,,167716468.06
+180,2025-08-25,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,Japan,Osaka,80,48000,331.1,15892800.0,2D,Single Screen,High,No,Disney+,1564,8.3,77,Yes,,154264273.46
+181,2025-08-25,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Japan,Osaka,52,14496,290.34,4208768.64,2D,Multiplex,Medium,Yes,Netflix,363,6.6,66,No,,264775611.95000002
+182,2025-08-25,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Japan,Osaka,72,18877,311.88,5887358.76,3D,Multiplex,Medium,Yes,Disney+,710,7.6,75,Yes,,229929149.87
+183,2025-08-25,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,USA,Los Angeles,55,20746,434.02,9004178.92,2D,Multiplex,Medium,No,JioCinema,425,7.8,69,Yes,,286170641.05
+184,2025-08-25,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,USA,Los Angeles,123,61191,471.73,28865630.43,2D,Single Screen,High,No,Crunchyroll,455,8.8,93,No,,562253815.59
+185,2025-08-25,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,USA,Los Angeles,112,50803,440.12,22359416.36,2D,Multiplex,High,Yes,Prime Video,757,7.6,70,Yes,,461044543.26
+186,2025-08-25,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,USA,Los Angeles,40,9915,425.47,4218535.05,2D,Mixed,Medium,No,Netflix,695,6.7,66,Yes,,167716468.06
+187,2025-08-25,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,USA,Los Angeles,74,44400,450.85,20017740.0,2D,Multiplex,High,No,Disney+,1493,8.1,72,No,,154264273.46
+188,2025-08-25,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,USA,Los Angeles,65,16227,474.89,7706040.03,2D,Single Screen,Medium,Yes,Netflix,417,7.5,60,Yes,,264775611.95000002
+189,2025-08-25,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,USA,Los Angeles,81,20301,426.41,8656549.41,3D,Single Screen,Medium,No,Disney+,604,8.0,72,Yes,,229929149.87
+190,2025-08-25,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,USA,New York,75,14708,473.94,6970709.52,3D,Single Screen,Medium,No,JioCinema,336,7.8,69,Yes,,286170641.05
+191,2025-08-25,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,USA,New York,83,29678,462.46,13724887.88,2D,Single Screen,High,Yes,Crunchyroll,583,8.9,89,Yes,,562253815.59
+192,2025-08-25,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,USA,New York,94,44009,430.36,18939713.24,2D,Single Screen,High,Yes,Prime Video,932,7.5,70,No,,461044543.26
+193,2025-08-25,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,USA,New York,94,32428,472.88,15334552.64,2D,Mixed,Medium,Yes,Netflix,858,7.1,74,Yes,,167716468.06
+194,2025-08-25,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,USA,New York,86,41850,446.93,18704020.5,2D,Multiplex,High,Yes,Disney+,1197,7.7,78,No,,154264273.46
+195,2025-08-25,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,USA,New York,75,16705,464.13,7753291.65,2D,Mixed,Medium,No,Netflix,414,6.8,56,No,,264775611.95000002
+196,2025-08-25,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,USA,New York,75,18716,467.71,8753660.36,IMAX,Mixed,Medium,No,Disney+,482,7.5,69,Yes,,229929149.87
+197,2025-08-25,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Canada,Toronto,61,12501,338.99,4237713.99,2D,Single Screen,Medium,Yes,JioCinema,592,7.4,70,No,,286170641.05
+198,2025-08-25,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,Canada,Toronto,73,30159,379.62,11448959.58,IMAX,Mixed,High,No,Crunchyroll,604,8.7,85,Yes,,562253815.59
+199,2025-08-25,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Canada,Toronto,93,40147,386.17,15503566.99,3D,Single Screen,High,Yes,Prime Video,1014,7.1,69,No,,461044543.26
+200,2025-08-25,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Canada,Toronto,78,28789,352.34,10143516.26,2D,Mixed,Medium,No,Netflix,512,7.2,69,No,,167716468.06
+201,2025-08-25,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,Canada,Toronto,73,38221,355.86,13601325.06,IMAX,Mixed,High,Yes,Disney+,1423,7.8,81,Yes,,154264273.46
+202,2025-08-25,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,Canada,Toronto,46,16019,349.95,5605849.05,2D,Multiplex,Medium,Yes,Netflix,201,7.0,62,No,,264775611.95000002
+203,2025-08-25,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Canada,Toronto,64,19835,366.08,7261196.8,2D,Mixed,Medium,Yes,Disney+,570,7.2,74,No,,229929149.87
+204,2025-08-25,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,UK,London,64,19148,410.19,7854318.12,2D,Multiplex,Medium,No,JioCinema,561,7.8,71,No,,286170641.05
+205,2025-08-25,Demon Slayer: Teen Saga,Yes,Anime/Action,Japanese,Japan,2025-08-01,UA,UK,London,65,32712,379.56,12416166.72,3D,Single Screen,High,No,Crunchyroll,748,8.5,80,No,,562253815.59
+206,2025-08-25,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,UK,London,50,23085,372.88,8607934.8,2D,Multiplex,High,No,Prime Video,929,6.7,70,No,,461044543.26
+207,2025-08-25,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,UK,London,60,22183,368.05,8164453.15,2D,Single Screen,Medium,No,Netflix,694,7.1,66,Yes,,167716468.06
+208,2025-08-25,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,UK,London,71,40562,393.72,15970070.64,IMAX,Mixed,High,Yes,Disney+,1201,7.5,76,Yes,,154264273.46
+209,2025-08-25,Street Dancer Teens,No,Dance/Music,Hindi,India,2025-08-01,U,UK,London,56,9019,421.96,3805657.24,2D,Single Screen,Medium,No,Netflix,609,7.2,61,No,,264775611.95000002
+210,2025-08-25,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,UK,London,82,27204,409.18,11131332.72,2D,Mixed,Medium,No,Disney+,477,7.7,74,Yes,,229929149.87
+211,2025-09-01,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Mumbai,107,24427,244.56,5973867.12,3D,Multiplex,Medium,No,JioCinema,797,7.6,70,No,,340365339.89
+212,2025-09-01,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Mumbai,123,62302,218.11,13588689.22,2D,Single Screen,High,No,Prime Video,727,7.7,68,Yes,,588802244.5
+213,2025-09-01,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Mumbai,115,38207,221.13,8448713.91,2D,Multiplex,Medium,Yes,Netflix,416,7.1,62,No,,243095823.79000002
+214,2025-09-01,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Mumbai,137,60576,224.6,13605369.6,IMAX,Mixed,High,Yes,Disney+,717,7.8,79,Yes,,310292135.56
+215,2025-09-01,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,India,Mumbai,58,11872,241.06,2861864.32,2D,Multiplex,Low,No,Prime Video,636,7.7,71,Yes,,46398674.34
+216,2025-09-01,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Mumbai,106,35091,207.32,7275066.12,2D,Multiplex,Medium,Yes,Disney+,522,7.4,75,No,,290225285.21000004
+217,2025-09-01,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,India,Mumbai,107,42389,218.47,9260724.83,2D,Multiplex,Medium,No,Crunchyroll,869,8.6,82,Yes,,78996799.0
+218,2025-09-01,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Delhi,82,18267,224.88,4107882.96,2D,Multiplex,Medium,No,JioCinema,321,8.0,72,Yes,,340365339.89
+219,2025-09-01,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Delhi,112,37271,210.58,7848527.18,2D,Mixed,High,Yes,Prime Video,698,7.9,72,Yes,,588802244.5
+220,2025-09-01,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Delhi,108,35314,206.71,7299756.94,2D,Single Screen,Medium,No,Netflix,553,7.0,65,No,,243095823.79000002
+221,2025-09-01,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Delhi,129,53824,203.72,10965025.28,3D,Multiplex,High,Yes,Disney+,899,8.1,74,Yes,,310292135.56
+222,2025-09-01,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,India,Delhi,73,19481,217.43,4235753.83,2D,Multiplex,Low,Yes,Prime Video,518,7.3,72,No,,46398674.34
+223,2025-09-01,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Delhi,125,36139,195.53,7066258.67,2D,Single Screen,Medium,No,Disney+,276,7.5,75,Yes,,290225285.21000004
+224,2025-09-01,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,India,Delhi,69,29154,234.91,6848566.14,3D,Single Screen,Medium,No,Crunchyroll,919,7.6,79,No,,78996799.0
+225,2025-09-01,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Ahmedabad,86,21514,169.68,3650495.52,2D,Mixed,Medium,No,JioCinema,524,8.2,75,Yes,,340365339.89
+226,2025-09-01,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Ahmedabad,87,39446,214.2,8449333.2,2D,Single Screen,High,Yes,Prime Video,552,7.5,68,Yes,,588802244.5
+227,2025-09-01,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Ahmedabad,66,18172,193.37,3513919.64,2D,Multiplex,Medium,No,Netflix,717,7.6,63,Yes,,243095823.79000002
+228,2025-09-01,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Ahmedabad,109,49653,186.76,9273194.28,2D,Multiplex,High,No,Disney+,849,7.7,75,No,,310292135.56
+229,2025-09-01,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,India,Ahmedabad,39,13531,172.14,2329226.34,2D,Single Screen,Low,Yes,Prime Video,744,7.6,67,Yes,,46398674.34
+230,2025-09-01,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Ahmedabad,76,29004,201.46,5843145.84,2D,Multiplex,Medium,Yes,Disney+,528,7.5,69,Yes,,290225285.21000004
+231,2025-09-01,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,India,Ahmedabad,58,27497,187.51,5155962.47,2D,Multiplex,Medium,No,Crunchyroll,1012,7.7,81,Yes,,78996799.0
+232,2025-09-01,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,India,Bengaluru,83,21767,176.14,3834039.38,2D,Single Screen,Medium,No,JioCinema,495,8.2,81,Yes,,340365339.89
+233,2025-09-01,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Bengaluru,130,52137,207.56,10821555.72,2D,Mixed,High,No,Prime Video,514,7.0,66,No,,588802244.5
+234,2025-09-01,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Bengaluru,83,17958,180.43,3240161.94,2D,Single Screen,Medium,Yes,Netflix,470,7.6,65,No,,243095823.79000002
+235,2025-09-01,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Bengaluru,119,50303,202.71,10196921.13,2D,Single Screen,High,No,Disney+,783,7.9,76,Yes,,310292135.56
+236,2025-09-01,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,India,Bengaluru,52,10813,230.51,2492504.63,2D,Multiplex,Low,Yes,Prime Video,633,7.2,68,No,,46398674.34
+237,2025-09-01,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Bengaluru,95,19960,215.68,4304972.8,2D,Multiplex,Medium,No,Disney+,448,6.9,74,No,,290225285.21000004
+238,2025-09-01,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,India,Bengaluru,91,29330,192.69,5651597.7,3D,Mixed,Medium,Yes,Crunchyroll,891,8.1,86,Yes,,78996799.0
+239,2025-09-01,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Japan,Tokyo,89,28332,278.85,7900378.2,2D,Single Screen,Medium,No,JioCinema,363,7.8,73,No,,340365339.89
+240,2025-09-01,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Japan,Tokyo,137,70642,310.4,21927276.8,2D,Single Screen,High,No,Prime Video,738,7.3,69,No,,588802244.5
+241,2025-09-01,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Japan,Tokyo,89,36660,302.89,11103947.4,2D,Single Screen,Medium,No,Netflix,495,7.6,66,No,,243095823.79000002
+242,2025-09-01,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,Japan,Tokyo,145,76646,326.7,25040248.2,2D,Single Screen,High,No,Disney+,827,7.5,76,No,,310292135.56
+243,2025-09-01,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,Japan,Tokyo,55,9794,323.27,3166106.38,2D,Mixed,Low,Yes,Prime Video,711,8.2,70,Yes,,46398674.34
+244,2025-09-01,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Japan,Tokyo,67,16117,321.73,5185322.41,2D,Mixed,Medium,Yes,Disney+,492,7.4,73,Yes,,290225285.21000004
+245,2025-09-01,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,Japan,Tokyo,79,28413,296.22,8416498.86,2D,Multiplex,Medium,Yes,Crunchyroll,841,8.1,84,Yes,,78996799.0
+246,2025-09-01,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Japan,Osaka,61,12502,276.24,3453552.48,2D,Single Screen,Medium,No,JioCinema,714,8.0,67,Yes,,340365339.89
+247,2025-09-01,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Japan,Osaka,100,44307,289.77,12838839.39,2D,Mixed,High,No,Prime Video,711,7.7,66,No,,588802244.5
+248,2025-09-01,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Japan,Osaka,67,13030,278.99,3635239.7,2D,Mixed,Medium,No,Netflix,771,7.5,68,No,,243095823.79000002
+249,2025-09-01,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,Japan,Osaka,100,49193,299.02,14709690.86,3D,Single Screen,High,Yes,Disney+,890,7.7,76,No,,310292135.56
+250,2025-09-01,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,Japan,Osaka,61,25981,330.39,8583862.59,2D,Multiplex,Low,Yes,Prime Video,565,7.5,70,Yes,,46398674.34
+251,2025-09-01,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Japan,Osaka,64,14904,268.05,3995017.2,2D,Multiplex,Medium,No,Disney+,399,7.4,73,Yes,,290225285.21000004
+252,2025-09-01,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,Japan,Osaka,68,29393,267.39,7859394.27,2D,Multiplex,Medium,Yes,Crunchyroll,794,8.3,78,Yes,,78996799.0
+253,2025-09-01,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,USA,Los Angeles,73,23056,462.96,10674005.76,3D,Single Screen,Medium,No,JioCinema,438,8.2,77,Yes,,340365339.89
+254,2025-09-01,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,USA,Los Angeles,94,42722,421.24,17996215.28,3D,Multiplex,High,No,Prime Video,660,7.0,71,No,,588802244.5
+255,2025-09-01,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,USA,Los Angeles,65,19550,437.37,8550583.5,2D,Single Screen,Medium,Yes,Netflix,652,7.3,67,Yes,,243095823.79000002
+256,2025-09-01,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,USA,Los Angeles,84,40409,454.38,18361041.42,2D,Mixed,High,No,Disney+,990,8.0,75,Yes,,310292135.56
+257,2025-09-01,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,USA,Los Angeles,57,13206,460.04,6075288.24,2D,Single Screen,Low,No,Prime Video,807,7.5,68,Yes,,46398674.34
+258,2025-09-01,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,USA,Los Angeles,50,17742,466.23,8271852.66,2D,Multiplex,Medium,Yes,Disney+,490,7.0,75,Yes,,290225285.21000004
+259,2025-09-01,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,USA,Los Angeles,67,22814,458.18,10452918.52,2D,Multiplex,Medium,No,Crunchyroll,1054,7.8,78,No,,78996799.0
+260,2025-09-01,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,USA,New York,55,12128,472.17,5726477.76,2D,Single Screen,Medium,Yes,JioCinema,463,7.6,76,Yes,,340365339.89
+261,2025-09-01,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,USA,New York,93,32030,468.24,14997727.2,3D,Multiplex,High,No,Prime Video,631,7.4,70,Yes,,588802244.5
+262,2025-09-01,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,USA,New York,94,32688,475.37,15538894.56,2D,Single Screen,Medium,Yes,Netflix,728,7.1,66,No,,243095823.79000002
+263,2025-09-01,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,USA,New York,94,43217,443.48,19165875.16,2D,Mixed,High,No,Disney+,918,7.5,77,No,,310292135.56
+264,2025-09-01,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,USA,New York,72,16278,474.77,7728306.06,2D,Single Screen,Low,No,Prime Video,640,7.1,76,No,,46398674.34
+265,2025-09-01,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,USA,New York,64,11997,477.76,5731686.72,2D,Mixed,Medium,Yes,Disney+,486,7.5,71,No,,290225285.21000004
+266,2025-09-01,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,USA,New York,56,24577,460.49,11317462.73,2D,Multiplex,Medium,No,Crunchyroll,894,8.6,76,No,,78996799.0
+267,2025-09-01,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,Canada,Toronto,47,9790,392.45,3842085.5,2D,Single Screen,Medium,No,JioCinema,625,8.0,70,Yes,,340365339.89
+268,2025-09-01,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Canada,Toronto,56,18545,384.09,7122949.05,2D,Single Screen,High,No,Prime Video,491,7.4,69,Yes,,588802244.5
+269,2025-09-01,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Canada,Toronto,101,27298,365.83,9986427.34,2D,Mixed,Medium,No,Netflix,540,7.1,63,No,,243095823.79000002
+270,2025-09-01,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,Canada,Toronto,83,32408,381.68,12369485.44,2D,Mixed,High,No,Disney+,980,8.1,77,Yes,,310292135.56
+271,2025-09-01,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,Canada,Toronto,20,7382,384.29,2836828.78,2D,Mixed,Low,No,Prime Video,726,7.7,73,Yes,,46398674.34
+272,2025-09-01,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Canada,Toronto,66,18863,348.74,6578282.62,2D,Multiplex,Medium,Yes,Disney+,488,7.3,71,Yes,,290225285.21000004
+273,2025-09-01,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,Canada,Toronto,40,18834,356.72,6718464.48,2D,Multiplex,Medium,No,Crunchyroll,868,8.5,80,Yes,,78996799.0
+274,2025-09-01,Saiyara,No,Romance,Hindi,India,2025-08-08,UA,UK,London,80,12454,404.04,5031914.16,2D,Single Screen,Medium,Yes,JioCinema,486,7.5,69,No,,340365339.89
+275,2025-09-01,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,UK,London,70,32370,375.86,12166588.2,2D,Single Screen,High,No,Prime Video,631,7.4,69,No,,588802244.5
+276,2025-09-01,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,UK,London,49,10680,380.31,4061710.8,2D,Single Screen,Medium,No,Netflix,514,7.6,65,No,,243095823.79000002
+277,2025-09-01,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,UK,London,98,54869,407.17,22341010.73,2D,Single Screen,High,Yes,Disney+,850,7.7,79,No,,310292135.56
+278,2025-09-01,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,UK,London,43,14879,409.23,6088933.17,2D,Single Screen,Low,No,Prime Video,496,7.5,68,No,,46398674.34
+279,2025-09-01,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,UK,London,62,16090,375.67,6044530.3,2D,Multiplex,Medium,Yes,Disney+,526,7.7,76,No,,290225285.21000004
+280,2025-09-01,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,UK,London,41,18810,388.9,7315209.0,3D,Mixed,Medium,Yes,Crunchyroll,981,8.0,81,No,,78996799.0
+281,2025-09-08,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Mumbai,135,38001,264.64,10056584.64,2D,Mixed,High,Yes,Prime Video,597,7.2,69,Yes,,696502844.1800001
+282,2025-09-08,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Mumbai,107,38984,224.72,8760484.48,2D,Single Screen,Medium,Yes,Netflix,488,7.0,62,Yes,,305412918.35
+283,2025-09-08,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Mumbai,144,64893,213.37,13846219.41,2D,Single Screen,High,No,Disney+,819,7.3,76,Yes,,440890723.92
+284,2025-09-08,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,India,Mumbai,78,12033,208.41,2507797.53,2D,Mixed,Low,Yes,Prime Video,462,7.5,70,No,,97229531.38
+285,2025-09-08,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Mumbai,110,35202,243.86,8584359.72,3D,Multiplex,Medium,No,Disney+,377,7.9,71,Yes,,342338840.37
+286,2025-09-08,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,India,Mumbai,98,34572,235.96,8157609.12,3D,Mixed,Medium,No,Crunchyroll,600,7.6,80,Yes,,164890604.16
+287,2025-09-08,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Delhi,117,25240,214.19,5406155.6,2D,Mixed,High,No,Prime Video,644,7.0,70,Yes,,696502844.1800001
+288,2025-09-08,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Delhi,101,26009,210.76,5481656.84,2D,Multiplex,Medium,No,Netflix,489,6.8,66,Yes,,305412918.35
+289,2025-09-08,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Delhi,115,40053,219.94,8809256.82,2D,Single Screen,High,No,Disney+,885,8.3,84,No,,440890723.92
+290,2025-09-08,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,India,Delhi,81,15615,181.77,2838338.55,2D,Mixed,Low,Yes,Prime Video,381,7.2,68,No,,97229531.38
+291,2025-09-08,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Delhi,76,21127,174.94,3695957.38,2D,Mixed,Medium,No,Disney+,586,7.6,74,Yes,,342338840.37
+292,2025-09-08,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,India,Delhi,72,25636,229.89,5893460.04,2D,Single Screen,Medium,No,Crunchyroll,854,8.1,79,Yes,,164890604.16
+293,2025-09-08,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Ahmedabad,94,30118,176.19,5306490.42,2D,Mixed,High,Yes,Prime Video,656,7.7,69,No,,696502844.1800001
+294,2025-09-08,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Ahmedabad,63,20363,180.52,3675928.76,3D,Multiplex,Medium,Yes,Netflix,698,7.6,62,Yes,,305412918.35
+295,2025-09-08,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Ahmedabad,126,40989,170.89,7004610.21,2D,Multiplex,High,No,Disney+,840,8.0,81,Yes,,440890723.92
+296,2025-09-08,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,India,Ahmedabad,62,18006,185.49,3339932.94,2D,Mixed,Low,No,Prime Video,352,7.8,66,Yes,,97229531.38
+297,2025-09-08,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Ahmedabad,73,11512,168.14,1935627.68,3D,Mixed,Medium,Yes,Disney+,515,7.6,73,No,,342338840.37
+298,2025-09-08,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,India,Ahmedabad,42,17401,205.14,3569641.14,IMAX,Single Screen,Medium,Yes,Crunchyroll,554,8.1,82,Yes,,164890604.16
+299,2025-09-08,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,India,Bengaluru,152,58319,191.59,11173337.21,2D,Multiplex,High,No,Prime Video,620,7.0,65,No,,696502844.1800001
+300,2025-09-08,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,India,Bengaluru,62,20699,237.86,4923464.14,2D,Mixed,Medium,No,Netflix,328,7.1,59,No,,305412918.35
+301,2025-09-08,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,India,Bengaluru,132,53126,216.84,11519841.84,2D,Mixed,High,No,Disney+,481,7.9,77,Yes,,440890723.92
+302,2025-09-08,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,India,Bengaluru,51,13364,206.79,2763541.56,2D,Single Screen,Low,No,Prime Video,203,7.4,70,Yes,,97229531.38
+303,2025-09-08,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,India,Bengaluru,99,26661,219.32,5847290.52,2D,Multiplex,Medium,No,Disney+,674,8.0,72,No,,342338840.37
+304,2025-09-08,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,India,Bengaluru,113,39009,188.15,7339543.35,3D,Single Screen,Medium,No,Crunchyroll,530,7.8,78,Yes,,164890604.16
+305,2025-09-08,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Japan,Tokyo,106,32188,298.79,9617452.52,2D,Multiplex,High,Yes,Prime Video,676,7.2,70,Yes,,696502844.1800001
+306,2025-09-08,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Japan,Tokyo,65,19780,290.33,5742727.4,2D,Mixed,Medium,No,Netflix,500,7.5,69,Yes,,305412918.35
+307,2025-09-08,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,Japan,Tokyo,94,42410,307.26,13030896.6,2D,Multiplex,High,No,Disney+,805,7.5,76,Yes,,440890723.92
+308,2025-09-08,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,Japan,Tokyo,46,9543,303.82,2899354.26,2D,Mixed,Low,Yes,Prime Video,388,7.7,68,Yes,,97229531.38
+309,2025-09-08,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Japan,Tokyo,71,12806,312.13,3997136.78,3D,Multiplex,Medium,No,Disney+,404,7.7,72,No,,342338840.37
+310,2025-09-08,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,Japan,Tokyo,73,31291,338.88,10603894.08,2D,Multiplex,Medium,No,Crunchyroll,772,7.8,74,Yes,,164890604.16
+311,2025-09-08,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Japan,Osaka,94,23915,276.02,6601018.3,2D,Mixed,High,No,Prime Video,705,7.7,69,Yes,,696502844.1800001
+312,2025-09-08,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Japan,Osaka,59,19392,287.18,5568994.56,2D,Multiplex,Medium,Yes,Netflix,555,6.8,62,No,,305412918.35
+313,2025-09-08,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,Japan,Osaka,99,50623,303.6,15369142.8,IMAX,Multiplex,High,No,Disney+,683,7.7,78,Yes,,440890723.92
+314,2025-09-08,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,Japan,Osaka,75,19616,302.72,5938155.52,2D,Mixed,Low,Yes,Prime Video,533,6.9,70,No,,97229531.38
+315,2025-09-08,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Japan,Osaka,68,8160,270.54,2207606.4,2D,Multiplex,Medium,No,Disney+,499,7.5,67,No,,342338840.37
+316,2025-09-08,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,Japan,Osaka,69,29414,289.91,8527412.74,2D,Mixed,Medium,Yes,Crunchyroll,644,7.7,75,Yes,,164890604.16
+317,2025-09-08,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,USA,Los Angeles,98,33270,409.55,13625728.5,2D,Single Screen,High,Yes,Prime Video,762,7.3,72,Yes,,696502844.1800001
+318,2025-09-08,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,USA,Los Angeles,65,19297,420.76,8119405.72,2D,Single Screen,Medium,Yes,Netflix,546,6.9,64,No,,305412918.35
+319,2025-09-08,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,USA,Los Angeles,77,31582,443.02,13991457.64,2D,Multiplex,High,No,Disney+,897,8.0,79,No,,440890723.92
+320,2025-09-08,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,USA,Los Angeles,52,17135,439.13,7524492.55,2D,Mixed,Low,Yes,Prime Video,383,7.5,68,No,,97229531.38
+321,2025-09-08,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,USA,Los Angeles,74,21687,442.85,9604087.95,2D,Multiplex,Medium,No,Disney+,364,6.8,74,Yes,,342338840.37
+322,2025-09-08,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,USA,Los Angeles,74,28177,402.71,11347159.67,2D,Mixed,Medium,No,Crunchyroll,686,8.4,85,Yes,,164890604.16
+323,2025-09-08,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,USA,New York,112,46703,489.31,22852244.93,2D,Mixed,High,Yes,Prime Video,675,7.2,70,Yes,,696502844.1800001
+324,2025-09-08,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,USA,New York,50,14899,493.37,7350719.63,2D,Single Screen,Medium,No,Netflix,538,7.0,65,Yes,,305412918.35
+325,2025-09-08,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,USA,New York,99,40610,438.96,17826165.6,2D,Single Screen,High,Yes,Disney+,636,7.6,77,No,,440890723.92
+326,2025-09-08,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,USA,New York,46,13690,472.42,6467429.8,2D,Mixed,Low,No,Prime Video,414,7.6,72,Yes,,97229531.38
+327,2025-09-08,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,USA,New York,57,12651,455.38,5761012.38,3D,Mixed,Medium,Yes,Disney+,210,8.3,75,No,,342338840.37
+328,2025-09-08,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,USA,New York,70,30340,488.99,14835956.6,3D,Single Screen,Medium,No,Crunchyroll,466,8.2,74,Yes,,164890604.16
+329,2025-09-08,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,Canada,Toronto,86,24284,369.27,8967352.68,2D,Mixed,High,No,Prime Video,605,7.9,72,No,,696502844.1800001
+330,2025-09-08,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,Canada,Toronto,63,21767,374.09,8142817.03,2D,Mixed,Medium,Yes,Netflix,588,7.0,62,Yes,,305412918.35
+331,2025-09-08,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,Canada,Toronto,89,34732,403.12,14001163.84,3D,Multiplex,High,Yes,Disney+,945,7.9,82,No,,440890723.92
+332,2025-09-08,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,Canada,Toronto,39,10211,393.53,4018334.83,2D,Mixed,Low,No,Prime Video,409,7.3,72,Yes,,97229531.38
+333,2025-09-08,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,Canada,Toronto,67,14429,384.13,5542611.77,2D,Multiplex,Medium,No,Disney+,359,8.1,72,No,,342338840.37
+334,2025-09-08,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,Canada,Toronto,64,24090,353.95,8526655.5,2D,Single Screen,Medium,Yes,Crunchyroll,679,8.5,82,Yes,,164890604.16
+335,2025-09-08,Vash 2,Yes,Thriller,Gujarati,India,2025-08-15,UA,UK,London,94,32912,428.24,14094234.88,2D,Mixed,High,No,Prime Video,685,7.6,67,Yes,,696502844.1800001
+336,2025-09-08,Campus Crush,No,Comedy/Romance,English,USA,2025-08-22,PG-13,UK,London,49,12530,363.2,4550896.0,2D,Multiplex,Medium,No,Netflix,321,6.7,63,Yes,,305412918.35
+337,2025-09-08,Quantum Hearts,No,Sci‑Fi/Romance,English,USA,2025-08-29,PG-13,UK,London,92,40992,370.8,15199833.6,2D,Multiplex,High,No,Disney+,894,8.0,80,No,,440890723.92
+338,2025-09-08,Startup Dreams,No,Drama,Hindi,India,2025-09-05,U,UK,London,70,31025,403.98,12533479.5,2D,Mixed,Low,No,Prime Video,459,7.2,68,No,,97229531.38
+339,2025-09-08,K‑Pop High,No,Music/Drama,Korean,South Korea,2025-08-15,U,UK,London,51,11682,422.69,4937864.58,2D,Multiplex,Medium,No,Disney+,489,7.7,73,Yes,,342338840.37
+340,2025-09-08,Anime Uprising,No,Anime/Adventure,Japanese,Japan,2025-09-05,UA,UK,London,69,17012,416.91,7092472.92,3D,Multiplex,Medium,No,Crunchyroll,526,8.4,84,Yes,,164890604.16
